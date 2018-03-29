@@ -1,4 +1,9 @@
 <?php  
-    echo phpinfo();
+
+    include ("index.php");
     
+    echo "hola PHP";
+
+    echo phpinfo();
+
 ?>
